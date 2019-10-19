@@ -1,3 +1,3 @@
 # Deisgn
-
-![screen](../master/RxJava-FlatMap-Example/screen/flatmapscreeen.gif)
+![screen](../master/
+RxJava-FlatMap-Example/screen/flatmapscreeen.gif)
